@@ -1,13 +1,13 @@
 {
-  "name": "twtichhooks",
-  "version": "1.0.0",
+  "name": "beddlebotv2",
+  "version": "0.1.0-alpha",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Extra Mental",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "better-sqlite3": "^7.4.1",
